@@ -1,3 +1,1 @@
 # SHOPPING LIST APP
-
-cls
